@@ -1,9 +1,5 @@
 # Image Segmentation Automated ROI Detection Labeling
 
-# Project Name
-
-[Short description of your project]
-
 ## Description
 
 This project focuses on developing an algorithm for automatic masking of cartridge case images, specifically targeting firearm-specific features through multi-class semantic segmentation. By leveraging deep learning techniques, the algorithm successfully identifies crucial firearm characteristics such as breech-face impression, aperture shear, and firing pin attributes. This advancement holds significant promise for enhancing firearm identification systems in forensic investigations.
