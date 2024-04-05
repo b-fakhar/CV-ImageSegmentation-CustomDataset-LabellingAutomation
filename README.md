@@ -10,4 +10,4 @@ Two training approaches were employed, with the second approach demonstrating su
 
 This proof of concept highlights the potential of deep learning segmentation methods in firearm identification, offering promising results for further advancements in forensic applications.
 
-For a more comprehensive overview of the project, please refer to the <p style="color:blue">**Report.pdf**</p>.
+For a more comprehensive overview of the project, please refer to the <font color="red">This text is red.</font>  <font color="red">Report.pdf</font>.
