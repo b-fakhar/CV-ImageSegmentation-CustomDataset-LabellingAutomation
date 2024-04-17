@@ -1,4 +1,4 @@
-# Image Segmentation Automated ROI Detection Labeling
+# Image Segmentation-Automated ROI Detection Labeling
 ## Demo
 ![Demo](https://github.com/b-fakhar/Image-Segmentation-Automated-ROI-Detection-Labeling/assets/59096353/db45e844-8507-4114-a631-8137b5ddfaf5)
 
